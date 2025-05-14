@@ -60,3 +60,4 @@ Players are prompted with a series of scenarios and must choose one of four opti
 | **GAME_OVER**           | Prints “Game Over” banner, calls STATUS_OF_PARTY, then HALTs                              |
 | **PRINT_USER_NAME**     | Helper to echo stored player name                                                        |
 | **Custom TRAP x38**     | Polls KBSR/KBDR to generate a pseudo-random 0–9 value and prints “X members joined…”      |
+| **Question_Four**       | Presents final question that triggers game over scenario                                   |

@@ -25,7 +25,7 @@ Players are prompted with a series of scenarios and must choose one of four opti
 ---
 
 ## Requirements
-- **Simulator:** Mac OS LC3Tools v2.0.2 by Chirag Sakhuja  (Download from https://github.com/Chirag-Sakhuja/lc3tools)
+- **Simulator:** Mac OS LC3Tools v2.0.2 by Chirag Sakhuja  (Download from [https://github.com/Chirag-Sakhuja/lc3tools](https://github.com/chiragsakhuja/lc3tools/releases))
 - **Special requirements:** none (console I/O only)
 - **Subroutines & comments:** uses JSR/RET subroutines throughout with inline comments.
 - **Files** The single `.asm` source file containing the main program FINAL_VERSION.asm

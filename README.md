@@ -25,8 +25,8 @@ Players are prompted with a series of scenarios and must choose one of four opti
 
 ## Requirements
 
-- LC-3 Assembly simulator (e.g. PennSim, LC3Edit). Mac OS LC3Tools Version 2.0.2 (2.0.2) by Chirag Sakhuja used to make this. 
-- A single `.asm` source file containing both the main program (at x3000) and the TRAP routine (at x3800)
+- LC-3 Assembly simulator (e.g. PennSim, LC3Edit) -- Mac OS LC3Tools Version 2.0.2 (2.0.2) by Chirag Sakhuja used to make this --
+- A single `.asm` source file containing the main program
 
 ---
 

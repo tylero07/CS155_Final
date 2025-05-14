@@ -61,3 +61,7 @@ Players are prompted with a series of scenarios and must choose one of four opti
 | **PRINT_USER_NAME**     | Helper to echo stored player name                                                        |
 | **Custom TRAP x38**     | Polls KBSR/KBDR to generate a pseudo-random 0–9 value and prints “X members joined…”      |
 | **Question_Four**       | Presents final question that triggers game over scenario                                   |
+
+
+![image](https://github.com/user-attachments/assets/5493d8b1-df7b-4753-9990-eb9eb6681fff)
+

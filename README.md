@@ -42,7 +42,7 @@ Players are prompted with a series of scenarios and must choose one of four opti
    4. Call TRAP x38 for a random event, then update the party (JSR UPDATE_PARTY).  
    5. Present a final update question.
    6. Go to game over screen with update
-
+4. **Play Again** Just set start point back at `x3000`
 ---
 
 ## Code Structure

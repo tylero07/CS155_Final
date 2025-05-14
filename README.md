@@ -9,7 +9,7 @@
 ## Overview
 
 This is a "lite" LC-3 Assembly version of the classic Oregon Trail decision game.  
-Players are prompted with a series of scenarios and must choose one of four options. Each choice carries a different penalty to your party’s size or miles remaining. There is **no win condition**—the game ends when you run out of party members or miles.
+Players are prompted with a series of scenarios and must choose one of four options. Each choice carries a different penalty to your party’s size or miles remaining. There is **no win condition**—the game ends when you run out of party members or miles or you proceed past question 4
 
 ---
 

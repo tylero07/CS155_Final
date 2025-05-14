@@ -63,5 +63,9 @@ Players are prompted with a series of scenarios and must choose one of four opti
 | **Question_Four**       | Presents final question that triggers game over scenario                                   |
 
 
+![image](https://github.com/user-attachments/assets/ec34b201-8baf-4bbc-b5d7-e81d5e17434a)
+
+![image](https://github.com/user-attachments/assets/b211349f-4493-487a-bac1-2bea37c6671a)
+
 ![image](https://github.com/user-attachments/assets/5493d8b1-df7b-4753-9990-eb9eb6681fff)
 

@@ -25,9 +25,10 @@ Players are prompted with a series of scenarios and must choose one of four opti
 ---
 
 ## Requirements
-
-- LC-3 Assembly simulator (e.g. PennSim, LC3Edit) -- Mac OS LC3Tools Version 2.0.2 (2.0.2) by Chirag Sakhuja used to make this --
-- A single `.asm` source file containing the main program
+- **Simulator:** Mac OS LC3Tools v2.0.2 by Chirag Sakhuja  (Download from https://github.com/Chirag-Sakhuja/lc3tools)
+- **Special requirements:** none (console I/O only)
+- **Subroutines & comments:** uses JSR/RET subroutines throughout with inline comments.
+- **Files** The single `.asm` source file containing the main program FINAL_VERSION.asm
 
 ---
 

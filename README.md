@@ -33,7 +33,7 @@ Players are prompted with a series of scenarios and must choose one of four opti
 ## Assembling & Running
 
 1. **Assemble** the .asm source file (e.g. `oregon_trail.asm`):
-2. **Set Stop Points At Halts**  
+2. **Set Stop Points At Halts**  `x300D`  `x333F` and  `x382B`
 3. **Run** starting at `x3000`.  
    The game will:
    1. Clear and initialize registers and data (JSR INITIALIZE_GAME).  
